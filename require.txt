@@ -5,7 +5,7 @@ chardet==3.0.4
 Django==1.11.13
 django-admin==1.2.4
 django-crispy-forms==1.6.1
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-excel-response2==2.0.8
 django-htmlmin==0.10.0
 django-mptt==0.8.7
